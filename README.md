@@ -1,1 +1,1 @@
-# Cybersec Weathercode Using Python
+# Cybersecurity Weathercode Using Python
